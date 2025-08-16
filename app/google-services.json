@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "163739523063",
+    "project_id": "pro-notes-3d124",
+    "storage_bucket": "pro-notes-3d124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163739523063:android:f9c3b60b683633faf640f2",
+        "android_client_info": {
+          "package_name": "com.example.pronotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163739523063-4bvr68qjnqdh8anrvgjdcroup7tpsq0q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGQDW8PFvcw9saKO_07qPC1hICvJ10e7c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163739523063-4bvr68qjnqdh8anrvgjdcroup7tpsq0q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
